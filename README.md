@@ -4,6 +4,37 @@
 
 In today's competitive job market, job seekers face challenges ensuring their resumes align with job descriptions, meeting the criteria of Applicant Tracking Systems (ATS). ATS filters often reject resumes that lack specific keywords or don't match job requirements, reducing the chances of securing interviews. This creates a need for a tool to help job seekers optimize their resumes for ATS compliance and highlight areas for improvement.
 
+## 📸 Screenshots
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="public/media/sc1.png" width="400"/>
+    </td>
+    <td>
+      <img src="public/media/sc2.png" width="400"/>
+    </td>
+  </tr>
+<!--   <tr>
+    <td align="center">Home Page</td>
+    <td align="center">Features Page</td>
+  </tr> -->
+  <tr>
+    <td>
+      <img src="public/media/sc3.png" width="400"/>
+    </td>
+    <td>
+      <img src="public/media/sc4.png" width="400"/>
+    </td>
+  </tr>
+<!--   <tr>
+    <td align="center">Profile Page</td>
+    <td align="center">Settings Page</td>
+  </tr> -->
+</table>
+
+
 ### Business Use Cases
 
 1. Resume Optimization for ATS
